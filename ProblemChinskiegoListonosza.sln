@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemChinskiegoListonosza", "ProblemChinskiegoListonosza\ProblemChinskiegoListonosza.csproj", "{2A50A558-45EF-48A4-9FA1-55AE89A8E556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A50A558-45EF-48A4-9FA1-55AE89A8E556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A50A558-45EF-48A4-9FA1-55AE89A8E556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A50A558-45EF-48A4-9FA1-55AE89A8E556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A50A558-45EF-48A4-9FA1-55AE89A8E556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C726181-EE4E-448F-A4DF-11A5ED716BBE}
+	EndGlobalSection
+EndGlobal
